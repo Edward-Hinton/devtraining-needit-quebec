@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <content><![CDATA[<h2 class="topictitle1">Is this thing on?</h2>
+<p> </p>
+<p>Am I all alone?</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<div class="note tm-element"><span class="notetitle">Note:</span></div>
+<p>Never I have I EVER had to deal with shit from people like you</p>
+<p> </p>
+<p> </p>]]></content>
+        <last_sync/>
+        <modifier>normal</modifier>
+        <name>Needit Form - User</name>
+        <page>x_58872_needit_needit</page>
+        <product>1</product>
+        <qualifier/>
+        <role display_value="x_58872_needit.needit_user" name="x_58872_needit.needit_user">6fae53fe87613010672cedf73cbb35fa</role>
+        <role_order>1000</role_order>
+        <snc_created>false</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-06 16:54:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>10fed13987b13010672cedf73cbb355e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Needit Form - User</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_embedded_help_content_10fed13987b13010672cedf73cbb355e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-06 17:36:25</sys_updated_on>
+        <version>q</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=10fed13987b13010672cedf73cbb355e"/>
+</record_update>
